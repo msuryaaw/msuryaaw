@@ -117,14 +117,6 @@ Currently working on several Python-based utilities and productivity tools that 
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msuryaaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
