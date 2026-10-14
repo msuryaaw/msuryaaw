@@ -1,6 +1,4 @@
-<p align="center">
-  <span style="font-size: 24px;"><b>Muhammad Surya Wiranegara</b>
-</p>
+<h1 align="center">Muhammad Surya Wiranegara</h1>
 
 <p align="center">
   <b>Informatics Student · Cybersecurity Enthusiast</b>
