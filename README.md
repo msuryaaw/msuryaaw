@@ -1,5 +1,5 @@
 <p align="center">
-  <b>Muhammad Surya Wiranegara</b>
+  <span style="font-size: 24px;"><b>Muhammad Surya Wiranegara</b>
 </p>
 
 <p align="center">
