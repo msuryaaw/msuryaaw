@@ -1,4 +1,6 @@
-# Muhammad Surya Wiranegara
+<p align="center">
+  <b>Muhammad Surya Wiranegara</b>
+</p>
 
 <p align="center">
   <b>Informatics Student · Cybersecurity Enthusiast</b>
