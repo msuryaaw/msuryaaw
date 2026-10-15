@@ -1,7 +1,7 @@
 # `surya@github:~$ whoami`
 
 <p align="center">
-  <img src="assets/fastfetch-profile.svg" alt="Fastfetch-style terminal profile for a cybersecurity enthusiast, with focus areas, languages, tools, and active projects" width="100%">
+  <img src="assets/fastfetch-profile.svg?v=2" alt="Fastfetch-style terminal profile for a cybersecurity enthusiast, with focus areas, languages, tools, and active projects" width="100%">
 </p>
 
 **Headline:** Cybersecurity enthusiast
