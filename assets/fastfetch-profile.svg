@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 620" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Surya Wiranegara's Fastfetch-style profile</title>
+  <desc id="desc">A dark Linux terminal with the provided ASCII artwork and profile information.</desc>
+  <rect width="960" height="620" rx="14" fill="#0b1020"/>
+  <rect x="1" y="1" width="958" height="618" rx="13" fill="none" stroke="#263247" stroke-width="2"/>
+  <path d="M1 48h958" stroke="#263247"/>
+  <circle cx="24" cy="24" r="5" fill="#ff5f57"/>
+  <circle cx="43" cy="24" r="5" fill="#febc2e"/>
+  <circle cx="62" cy="24" r="5" fill="#28c840"/>
+  <text x="86" y="29" fill="#aab6c8" font-family="Consolas, 'Liberation Mono', monospace" font-size="13">surya@github:~$ <tspan fill="#7ee787">fastfetch</tspan></text>
+  <text x="922" y="29" text-anchor="end" fill="#64748b" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">PROFILE / 01</text>
+  <path d="M418 68v530" stroke="#263247"/>
+  <text x="20" y="82" xml:space="preserve" fill="#a8b3c5" font-family="Consolas, 'Liberation Mono', monospace" font-size="6.1">
+    <tspan x="20" dy="0">::..::::+=---------++----------------------------==---------==--:---==--------========::::---: :::  </tspan>
+    <tspan x="20" dy="9.4">::..:::=+===------=+------------------------------=----------=-:--==-----------====+==-:::--.::-::  </tspan>
+    <tspan x="20" dy="9.4">.::..::++==+=-----==-------------------------------=----------:-==--=----==-----==+=+-=-:=-: :-:::  </tspan>
+    <tspan x="20" dy="9.4"> .:..:=+++++------+=--------------------------------==---------=-:----=---==----=====:-=-=.---:.:-  </tspan>
+    <tspan x="20" dy="9.4"> ::..:++++++------+----------------------------------==-------==:--=--=---============---:--:...:-  </tspan>
+    <tspan x="20" dy="9.4">  ::.=++++++-==-==+-----------------------------------++=--==----=--=-==--=============--:....::--  </tspan>
+    <tspan x="20" dy="9.4">  :-:+++++++=+==+++--------------------------------==-=++======-=+=-=====-=============-.....::-:-  </tspan>
+    <tspan x="20" dy="9.4">   :=+++++++++=++++-=-------------------------------==-===+====+==*======--==========+==-::=::::-   </tspan>
+    <tspan x="20" dy="9.4">   #*++*++++++=*+++==-----------------------=-------=====--==+==+**+======--==========++==:.:::-    </tspan>
+    <tspan x="20" dy="9.4">   **+**+*+++++*+*+=+=-----------------------==-==-=======----==+++++=======-==+=======++==-----    </tspan>
+    <tspan x="20" dy="9.4">  #******+**+++*+*+=+=----==-----------------=============-------===+========-==========**+==..--   </tspan>
+    <tspan x="20" dy="9.4">  **********++*****=*+=-=-=+=--=----==--===--==========+===----------============+=======***==:.--  </tspan>
+    <tspan x="20" dy="9.4">  **********+******+**=====+==-==-==========--+==++=====+=+-----------=======+====+======+***+=-:-: </tspan>
+    <tspan x="20" dy="9.4">  *****************+**+====++===============--=+=-++========--------=-========+==-========+***+++=: </tspan>
+    <tspan x="20" dy="9.4"> #***#*****************+++==*====+===========-==+=-+==========-=*=------=======*==-+=======+ #**++  </tspan>
+    <tspan x="20" dy="9.4"> ****#****#*************++*=++===+=====+======-==+=-=====++**==-=--------======+*==-+======+*  #*++*</tspan>
+    <tspan x="20" dy="9.4">#*********#***********+**+*++++===++====++====-=====-==========+++*#####*+==-===**==-+======+*  #*+*</tspan>
+    <tspan x="20" dy="9.4">#****#****#************+**+*+***++=*+====++===-=======--=++=+##**###%*##*-==-===**+=-=+=+===+*    *+</tspan>
+    <tspan x="20" dy="9.4">#****#****#*******#****+=**+*++=*++=++=====++=-==-----====++**=*==+*#=+*=--=--+=**#+=-==++===+*   *+</tspan>
+    <tspan x="20" dy="9.4">#****#****#************+-=*++**+-+**+========+-===---==-=**+*#*+++==*=+----=--+=+*##+=-+=++==++    *</tspan>
+    <tspan x="20" dy="9.4">*****#****#*************=--+*+*++-=+**+-======-========++=+--+*==-=+=------+=-=+++*##+-=+++==++*  #*</tspan>
+    <tspan x="20" dy="9.4">#*#**##***##**********#*+---==++=+++***++-=+=====-=======-=-----------------=-=*==+##*+-++++==+*  # </tspan>
+    <tspan x="20" dy="9.4">**#**##***##********#**#==--==**+*#**##**+=--=======---==-----------------=*+-=*+==+*#*==**#==+*    </tspan>
+    <tspan x="20" dy="9.4">#*#**##****#***********#*+*##%#*++=-------------===-----------------------***==**===**#*-*##*=+*    </tspan>
+    <tspan x="20" dy="9.4">#*#**##*****#*******+***#*++==----------------------::::::----------------***=+#++===*#*+=# *++*    </tspan>
+    <tspan x="20" dy="9.4">#*##*###***#**********#*#*-------------------------::::::::::-----------+***=#*+++==+**+=# *++*    </tspan>
+    <tspan x="20" dy="9.4">#*# ###%***###**********#*#*-----------------::------:::::::::::::-------***+*#*++++===+++* *+*     </tspan>
+    <tspan x="20" dy="9.4"> ## ####***###************##*---------------::-------:::::::::::::::----+***###*++++++==++* *+      </tspan>
+    <tspan x="20" dy="9.4"> ### ### ***###*********#*****=-------------:::::---::::::::::::::::---+****###*++++++++=+* *       </tspan>
+    <tspan x="20" dy="9.4">  ##  ####*********************=-----------::::::::::::::::::::::::---=****####++++++++*++=++       </tspan>
+    <tspan x="20" dy="9.4">   ###  ###*****************##**+---------::::::::::::::--=-:::::::--+*****####++++++++*+=+*****####</tspan>
+    <tspan x="20" dy="9.4">     ####   #***********++********---------::::-------=++=-:::::::--*******#**#++++++++*+=+         </tspan>
+    <tspan x="20" dy="9.4">              ***#******++---****#**--------::::----------:::::---=**********+#++==++=+*+=+         </tspan>
+    <tspan x="20" dy="9.4">               ********+++----+** #***=-------::::-----:::::::---++#*********++*++==+=+**=*         </tspan>
+    <tspan x="20" dy="9.4">                 #****+**+=---=** #******+------------::-------=++#%*********+=*++==+==*++#         </tspan>
+    <tspan x="20" dy="9.4">-=                  #*+*++=---=** ********###=---------------=++#%%%*********+=+++=====+=+          </tspan>
+    <tspan x="20" dy="9.4">=--=               ##+==++=---=** #*******#%%#*++=---------=++#%%%%%***#******==++======**#         </tspan>
+    <tspan x="20" dy="9.4">+==--=     =------=#*+==++=====**  *******%%%%%#++++===--=++#%%%%%%%**********=-=+====+=+**#        </tspan>
+    <tspan x="20" dy="9.4">**+===-+=----------+*+==++=====*#  ***=**##++%%##*++++++++##%%%%%%%%**********+--========***#       </tspan>
+    <tspan x="20" dy="9.4">*+**+==-=----------**+==++=====*#  ***+==#%#*=#%*#*++++++*#%%#+=-#%%***********+--========***#      </tspan>
+    <tspan x="20" dy="9.4">+****+==--=--------*+==++===--=+-::--=+++-+%#*=##*++++++*%%%*-==+%%%#****#******=-=+======+***#     </tspan>
+    <tspan x="20" dy="9.4"> +*****+==--------=*+===--------+--:-+-=++=*#*+*+..-*#++*%+-=+=*%%%%%#****#*****+=-=+=======***#    </tspan>
+    <tspan x="20" dy="9.4"> +++*****+===-----++=-------=+++=+=--==-+*+=**+**::=#++*#+-==+%%%%%%*--=**********=-=*====-==+**#   </tspan>
+    <tspan x="20" dy="9.4">+=-=+*****+===-=--:------=++++++++-=-==-=#%%%%#**--+####+++##%%%%#=--++-::=*******+=-=*====-===***  </tspan>
+    <tspan x="20" dy="9.4">=----++***+++=-------==++++*++++++=--+=+%#####*+=--==#%#####%##*=---+-----+=-------+=--*+==--===***#</tspan>
+    <tspan x="20" dy="9.4">------+++++=------==++++++====-==+======#%#%#***==-===+***##%+----==-::-+=---------=++=-++==-----=+*</tspan>
+    <tspan x="20" dy="9.4">----==+++=------=++++++=----:::--++====+*%*+*#**+-=--=*#%##%*---=+=---=+--------:----++=-=++=-==--==</tspan>
+    <tspan x="20" dy="9.4">===+*++*=+====-=++------:::--==++++=::==+###++=#+==--+##*##*+====---=+=----:::::::-----+**+++--=----</tspan>
+    <tspan x="20" dy="9.4">=++**+*++++===-----::----=+++=-=++=:--=+*+=-+***++-*++=+#*++=====--=+----::::::::::-----=+++++++===-</tspan>
+    <tspan x="20" dy="9.4">+++**+*++++==--::----=+++=---::--=-====---=++==++=+=++=-=+=-:::-===+----:::::::::::::----=++=-=****+</tspan>
+    <tspan x="20" dy="9.4">=++++==+++=========++=--------=====+-==--==-------===+==---=-:--=++---::::::::::::::::::---=+=-+***+</tspan>
+    <tspan x="20" dy="9.4">++*+====*+==+++++++--------==++++==-===-=------------====----:--=+=--:::::::::::::::::::-----=+*++++</tspan>
+    <tspan x="20" dy="9.4">++*+====++==+++===-----===++=-=+++==-==--::::::--------=-===---=-==--:::::::::::::::::::--::---=====</tspan>
+    <tspan x="20" dy="9.4">++*+=====+==++++======++++=---==++==-::::::::::::::::---====-=--===--::::::::::::::::---:::::::::::-----</tspan>
+    <tspan x="20" dy="9.4">++*+=====++==++=+++++++++==++==+=::..::::::::::::::::::---=-:--:--+-::::--::::::----::::::::::::::::::</tspan>
+  </text>
+  <text x="444" y="84" fill="#7ee787" font-family="Consolas, 'Liberation Mono', monospace" font-size="12">muhammad-surya-wiranegara</text>
+  <text x="444" y="108" fill="#8b949e" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">-------------------------------</text>
+  <text x="444" y="138" fill="#79c0ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Name</text>
+  <text x="514" y="138" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Muhammad Surya Wiranegara</text>
+  <text x="444" y="162" fill="#79c0ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Role</text>
+  <text x="514" y="162" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Informatics Student</text>
+  <text x="444" y="186" fill="#79c0ff" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">University</text>
+  <text x="514" y="186" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">UPN Veteran Jakarta</text>
+  <text x="444" y="220" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Cybersecurity</text>
+  <text x="444" y="240" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Offensive Security &amp; System Security</text>
+  <text x="444" y="274" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Languages</text>
+  <text x="444" y="294" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Python / Kotlin / Rust / Java</text>
+  <text x="444" y="328" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Tools</text>
+  <text x="444" y="348" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Git / Docker / Kali Linux</text>
+  <text x="444" y="366" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Android / Jetpack Compose / React</text>
+  <text x="444" y="400" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Operating Systems</text>
+  <text x="444" y="420" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Windows / Linux / WSL</text>
+  <text x="444" y="454" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Interests</text>
+  <text x="444" y="474" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Pentesting / Red Team / Malware Analysis</text>
+  <text x="444" y="492" fill="#d1d9e0" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Digital Forensics / Network Security</text>
+  <text x="444" y="526" fill="#f2cc60" font-family="Consolas, 'Liberation Mono', monospace" font-size="11">Status</text>
+  <text x="444" y="546" fill="#7ee787" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">Learning, Building, Breaking (Ethically)</text>
+  <text x="444" y="584" fill="#64748b" font-family="Consolas, 'Liberation Mono', monospace" font-size="10">surya@github:~$ <tspan fill="#7ee787">_</tspan></text>
+</svg>
