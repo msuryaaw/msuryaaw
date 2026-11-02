@@ -1,9 +1,5 @@
 # `surya@github:~$ whoami`
 
-<p align="center">
-  <img src="assets/fastfetch-profile.svg?v=2" alt="Fastfetch-style terminal profile for a cybersecurity enthusiast, with focus areas, languages, tools, and active projects" width="100%">
-</p>
-
 ## `$ cat focus.txt`
 
 - System & Network Security
